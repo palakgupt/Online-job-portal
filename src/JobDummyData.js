@@ -1,0 +1,46 @@
+export default[
+    {
+        id:1,
+        postedon:'2024-04-28',
+        title:'iOS Developer',
+        company:'Apple',
+        type:'Full Time',
+        experience:'Mid Level',
+        location:'Remote',
+        skills:["SwiftUI","UiKit","Core Data"],
+        job_link:"https://www.apple.com/careers/in/"
+    },
+    {
+        id:2,
+        postedon:'2024-05-27',
+        title:'Frontend Developer',
+        company:'Amazon',
+        type:'Part time',
+        experience:'Fresher',
+        location:'In-Office',
+        skills:["HTML","CSS","JavaScript"],
+        job_link:"https://www.amazon.jobs/en/",
+    },
+    {
+        id:3,
+        postedon:'2024-04-28',
+        title:'Backend Developer',
+        company:'Apple',
+        type:'Full Time',
+        experience:'Fresher',
+        location:'In-office',
+        skills:["Python","Django"],
+        job_link:"https://facebook.com/careers",
+    },
+    {
+        id:4,
+        postedon:'2024-03-28',
+        title:'Android Developer',
+        company:'Accenture',
+        type:'Contract',
+        experience:'Senior Level',
+        location:'Hybrid',
+        skills:["Kotlin","MVVM"],
+        job_link:"https://www.accenture.com/in-en/careers"
+    },
+]
